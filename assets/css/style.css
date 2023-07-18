@@ -3,6 +3,18 @@ body{
     background-color:azure;
 }
 
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.box-menu img{
+    width: 400px;
+    height: 200px;
+    border: solid black 2px;
+}
+
 .nav-bar{
     display: flex;
     justify-content: start;
